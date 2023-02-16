@@ -1,0 +1,5 @@
+# Python generated sub-dir / Byte-compiled / optimized / DLL files
+__pycache__/
+# OS generated files #
+.DS_Store
+.DS_Store?
