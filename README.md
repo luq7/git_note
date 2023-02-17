@@ -2,3 +2,6 @@
 - [Git create tag](https://devconnected.com/how-to-create-git-tags/)
 - [Git push tag](https://stackoverflow.com/questions/5195859/how-do-you-push-a-tag-to-a-remote-repository-using-git)
 - [.gitignore template for common Python project](https://stackoverflow.com/questions/3719243/best-practices-for-adding-gitignore-file-for-python-projects)
+- [Make the current commit the only (initial) commit in a Git repository](https://stackoverflow.com/questions/9683279/make-the-current-commit-the-only-initial-commit-in-a-git-repository)
+- [How to delete all commit history in github?[Duplicated]](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
+- [How to undo shit on git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
